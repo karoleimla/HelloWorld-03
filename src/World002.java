@@ -11,13 +11,13 @@ public class World002 {
         String lastName;
         String message;
         double raadius;
-        double pi = 3.14;
+        double pi = 3.1415;
         double pindala;
         Scanner in = new Scanner(System.in);
         int hour, minute;
         message = "Hello";          // give message the value "Hello!"
         hour = 11;                   // assign the value 11 to hour
-        minute = 59;                 // set minute to 59
+        minute = 57;                 // set minute to 57
         firstName = "K";
         lastName = "E";
         System.out.println("Hello, World!");
