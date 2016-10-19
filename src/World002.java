@@ -11,7 +11,7 @@ public class World002 {
         String lastName;
         String message;
         double raadius;
-        double pi = 3.14;
+        double pi = 3.1415;
         double pindala;
         Scanner in = new Scanner(System.in);
         int hour, minute;
